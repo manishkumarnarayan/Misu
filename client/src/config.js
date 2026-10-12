@@ -13,12 +13,12 @@ import hearts from './assets/images/hearts.jpg'
 
 export const CONFIG = {
   recipient: { full: 'Misba', nick: 'Misu' },
-  from: { name: 'Kritika' },
+  from: { name: 'Kriti' },
 
   // Her birthday as 'YYYY-MM-DD' (example: '2007-03-14').
   // Leave it empty and the age, the "days lived" counter and the candle count
   // quietly switch to age-free versions, so nothing shows a wrong number.
-  birthDate: '',
+  birthDate: '2008-10-13',
 
   // Optional background music file placed in /public (example: '/music/bgm.mp3').
   // Leave empty to use the built-in synthesised "Happy Birthday" melody.
