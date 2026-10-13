@@ -13,7 +13,7 @@ import hearts from './assets/images/hearts.jpg'
 
 export const CONFIG = {
   recipient: { full: 'Misba', nick: 'Misu' },
-  from: { name: 'Kriti' },
+  from: { name: 'Kirti' },
 
   // Her birthday as 'YYYY-MM-DD' (example: '2007-03-14').
   // Leave it empty and the age, the "days lived" counter and the candle count
