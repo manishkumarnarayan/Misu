@@ -72,7 +72,7 @@ export default function App() {
               </AnimatePresence>
             </main>
             <footer className="pb-6 text-center text-xs text-ink/50">
-              Made with love for Misu, by Kritika
+              Made with love for Misu, by Kirti
             </footer>
           </div>
         </>
