@@ -127,7 +127,7 @@ export const CONFIG = {
       'Eat the cake, ignore the stress, take far too many photos, and remember that you are loved more than you probably realise. Now go enjoy your day. You have earned every bit of it.',
     ],
     signoff: 'Always yours,',
-    signature: 'Kriti',
+    signature: 'Kirti',
   },
 
   // Playful "fortune" quiz. Every answer is a good answer: each option adds
